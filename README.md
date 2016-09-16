@@ -8,7 +8,7 @@ Installation from the terminal on e.g., your deskop
 >> git clone https://github.com/steevelaquitaine/slforwmodeling.git
 ```
 
-Set the path where you clone the package to (e.g., on your desktop)  
+Set the path where you cloned the package to (e.g., on your desktop)  
 ``` matlab
 >> package_path = '~/Desktop/slforwmodeling';
 ```
